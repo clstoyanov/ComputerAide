@@ -46,5 +46,16 @@ namespace PersonalPurpose
             AboutMe aboutMe = new AboutMe();
             aboutMe.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://youtu.be/EX0Abby3f_0");
+        }
+
+        private void btnAnyDeskAccept_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://youtu.be/HCkm-e6B14g");
+        }
+
     }
 }

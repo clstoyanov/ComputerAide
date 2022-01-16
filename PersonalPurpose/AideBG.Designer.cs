@@ -33,8 +33,8 @@ namespace PersonalPurpose
             this.btnSound = new System.Windows.Forms.Button();
             this.btnInternet = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnAnyDeskAccept = new System.Windows.Forms.Button();
+            this.btnAnyDeskCode = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.button13 = new System.Windows.Forms.Button();
             this.button12 = new System.Windows.Forms.Button();
@@ -123,25 +123,27 @@ namespace PersonalPurpose
             this.label2.TabIndex = 64;
             this.label2.Text = "Проблеми";
             // 
-            // button4
+            // btnAnyDeskAccept
             // 
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(746, 43);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(169, 40);
-            this.button4.TabIndex = 63;
-            this.button4.Text = "Приемане";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnAnyDeskAccept.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAnyDeskAccept.Location = new System.Drawing.Point(746, 43);
+            this.btnAnyDeskAccept.Name = "btnAnyDeskAccept";
+            this.btnAnyDeskAccept.Size = new System.Drawing.Size(169, 40);
+            this.btnAnyDeskAccept.TabIndex = 63;
+            this.btnAnyDeskAccept.Text = "Приемане";
+            this.btnAnyDeskAccept.UseVisualStyleBackColor = true;
+            this.btnAnyDeskAccept.Click += new System.EventHandler(this.btnAnyDeskAccept_Click);
             // 
-            // button3
+            // btnAnyDeskCode
             // 
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(512, 43);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(92, 40);
-            this.button3.TabIndex = 62;
-            this.button3.Text = "Код";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnAnyDeskCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAnyDeskCode.Location = new System.Drawing.Point(512, 43);
+            this.btnAnyDeskCode.Name = "btnAnyDeskCode";
+            this.btnAnyDeskCode.Size = new System.Drawing.Size(92, 40);
+            this.btnAnyDeskCode.TabIndex = 62;
+            this.btnAnyDeskCode.Text = "Код";
+            this.btnAnyDeskCode.UseVisualStyleBackColor = true;
+            this.btnAnyDeskCode.Click += new System.EventHandler(this.button3_Click);
             // 
             // label8
             // 
@@ -501,8 +503,8 @@ namespace PersonalPurpose
             this.Controls.Add(this.btnSound);
             this.Controls.Add(this.btnInternet);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
+            this.Controls.Add(this.btnAnyDeskAccept);
+            this.Controls.Add(this.btnAnyDeskCode);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.button13);
             this.Controls.Add(this.button12);
@@ -542,8 +544,8 @@ namespace PersonalPurpose
         private System.Windows.Forms.Button btnSound;
         private System.Windows.Forms.Button btnInternet;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnAnyDeskAccept;
+        private System.Windows.Forms.Button btnAnyDeskCode;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Button button13;
         private System.Windows.Forms.Button button12;
