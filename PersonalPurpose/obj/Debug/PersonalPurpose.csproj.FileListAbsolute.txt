@@ -10,3 +10,16 @@ D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\Person
 D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.pdb
 D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.AideEN.resources
 D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.AideBG.resources
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.csproj.AssemblyReference.cache
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.AideBG.resources
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.AideEN.resources
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.Properties.Resources.resources
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.csproj.GenerateResource.cache
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.csproj.CoreCompileInputs.cache
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.exe
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.pdb
+D:\GithubRepos\ComputerAide\PersonalPurpose\bin\Debug\PersonalPurpose.exe.config
+D:\GithubRepos\ComputerAide\PersonalPurpose\bin\Debug\PersonalPurpose.exe
+D:\GithubRepos\ComputerAide\PersonalPurpose\bin\Debug\PersonalPurpose.pdb
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.StartUp.resources
+D:\GithubRepos\ComputerAide\PersonalPurpose\obj\Debug\PersonalPurpose.AboutMe.resources

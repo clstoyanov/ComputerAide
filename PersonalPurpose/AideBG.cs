@@ -19,7 +19,7 @@ namespace PersonalPurpose
             InitializeComponent();
         }
 
-        string path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\Videos\Bulgarian\");
+        string path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\Videos\English\");
 
         private void btnInternet_Click(object sender, EventArgs e)
         {
@@ -34,6 +34,17 @@ namespace PersonalPurpose
         private void btnMicrophone_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start(path + @"Problems-Microphone.mp4");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://youtu.be/4lr-0fcZIxo");
+        }
+
+        private void btnAbout_Click(object sender, EventArgs e)
+        {
+            AboutMe aboutMe = new AboutMe();
+            aboutMe.Show();
         }
     }
 }
