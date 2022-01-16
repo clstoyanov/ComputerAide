@@ -1,0 +1,12 @@
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\bin\Debug\PersonalPurpose.exe.config
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\bin\Debug\PersonalPurpose.exe
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\bin\Debug\PersonalPurpose.pdb
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.csproj.AssemblyReference.cache
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.Form1.resources
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.Properties.Resources.resources
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.csproj.GenerateResource.cache
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.csproj.CoreCompileInputs.cache
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.exe
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.pdb
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.AideEN.resources
+D:\Fontys Work\Minor\VSSolution\PersonalPurpose\PersonalPurpose\obj\Debug\PersonalPurpose.AideBG.resources
