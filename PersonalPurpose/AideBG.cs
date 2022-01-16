@@ -57,5 +57,19 @@ namespace PersonalPurpose
             System.Diagnostics.Process.Start("https://youtu.be/HCkm-e6B14g");
         }
 
+        private void btnKeyboard_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://youtu.be/v97IZbYVlmY");
+        }
+
+        private void btnWindowsUpdate_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://youtu.be/rgYKY17BCgs");
+        }
+
+        private void btnWindowsFiles_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://youtu.be/uzsnTGS6egA");
+        }
     }
 }

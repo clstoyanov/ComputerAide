@@ -36,27 +36,27 @@ namespace PersonalPurpose
             this.btnAnyDeskAccept = new System.Windows.Forms.Button();
             this.btnAnyDeskCode = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
+            this.btnFBMsg = new System.Windows.Forms.Button();
+            this.btnFBFind = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
+            this.btnSkypeMsg = new System.Windows.Forms.Button();
+            this.btnSkypeCall = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
+            this.btnYouTubeControls = new System.Windows.Forms.Button();
+            this.btnYouTubeSearch = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
+            this.btnChromeBookmark = new System.Windows.Forms.Button();
+            this.btnGoogleSearch = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnMouse = new System.Windows.Forms.Button();
+            this.btnKeyboard = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.btnAbout = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
+            this.btnWindowsFiles = new System.Windows.Forms.Button();
+            this.btnWindowsUpdate = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
-            this.button15 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
+            this.btnWordPrint = new System.Windows.Forms.Button();
+            this.btnWordBasics = new System.Windows.Forms.Button();
             this.label9 = new System.Windows.Forms.Label();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
@@ -155,25 +155,25 @@ namespace PersonalPurpose
             this.label8.TabIndex = 61;
             this.label8.Text = "AnyDesk";
             // 
-            // button13
+            // btnFBMsg
             // 
-            this.button13.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button13.Location = new System.Drawing.Point(234, 489);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(183, 40);
-            this.button13.TabIndex = 60;
-            this.button13.Text = "Съобщение";
-            this.button13.UseVisualStyleBackColor = true;
+            this.btnFBMsg.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFBMsg.Location = new System.Drawing.Point(234, 489);
+            this.btnFBMsg.Name = "btnFBMsg";
+            this.btnFBMsg.Size = new System.Drawing.Size(183, 40);
+            this.btnFBMsg.TabIndex = 60;
+            this.btnFBMsg.Text = "Съобщение";
+            this.btnFBMsg.UseVisualStyleBackColor = true;
             // 
-            // button12
+            // btnFBFind
             // 
-            this.button12.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button12.Location = new System.Drawing.Point(18, 489);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(178, 40);
-            this.button12.TabIndex = 59;
-            this.button12.Text = "Намиране";
-            this.button12.UseVisualStyleBackColor = true;
+            this.btnFBFind.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFBFind.Location = new System.Drawing.Point(18, 489);
+            this.btnFBFind.Name = "btnFBFind";
+            this.btnFBFind.Size = new System.Drawing.Size(178, 40);
+            this.btnFBFind.TabIndex = 59;
+            this.btnFBFind.Text = "Намиране";
+            this.btnFBFind.UseVisualStyleBackColor = true;
             // 
             // label7
             // 
@@ -185,25 +185,25 @@ namespace PersonalPurpose
             this.label7.TabIndex = 58;
             this.label7.Text = "Facebook";
             // 
-            // button11
+            // btnSkypeMsg
             // 
-            this.button11.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button11.Location = new System.Drawing.Point(234, 381);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(183, 40);
-            this.button11.TabIndex = 57;
-            this.button11.Text = "Съобщение";
-            this.button11.UseVisualStyleBackColor = true;
+            this.btnSkypeMsg.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSkypeMsg.Location = new System.Drawing.Point(234, 381);
+            this.btnSkypeMsg.Name = "btnSkypeMsg";
+            this.btnSkypeMsg.Size = new System.Drawing.Size(183, 40);
+            this.btnSkypeMsg.TabIndex = 57;
+            this.btnSkypeMsg.Text = "Съобщение";
+            this.btnSkypeMsg.UseVisualStyleBackColor = true;
             // 
-            // button10
+            // btnSkypeCall
             // 
-            this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button10.Location = new System.Drawing.Point(18, 381);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(172, 40);
-            this.button10.TabIndex = 56;
-            this.button10.Text = "Обаждане";
-            this.button10.UseVisualStyleBackColor = true;
+            this.btnSkypeCall.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSkypeCall.Location = new System.Drawing.Point(18, 381);
+            this.btnSkypeCall.Name = "btnSkypeCall";
+            this.btnSkypeCall.Size = new System.Drawing.Size(172, 40);
+            this.btnSkypeCall.TabIndex = 56;
+            this.btnSkypeCall.Text = "Обаждане";
+            this.btnSkypeCall.UseVisualStyleBackColor = true;
             // 
             // label5
             // 
@@ -215,25 +215,25 @@ namespace PersonalPurpose
             this.label5.TabIndex = 55;
             this.label5.Text = "Skype";
             // 
-            // button9
+            // btnYouTubeControls
             // 
-            this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.Location = new System.Drawing.Point(234, 270);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(158, 40);
-            this.button9.TabIndex = 54;
-            this.button9.Text = "Контроли";
-            this.button9.UseVisualStyleBackColor = true;
+            this.btnYouTubeControls.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnYouTubeControls.Location = new System.Drawing.Point(234, 270);
+            this.btnYouTubeControls.Name = "btnYouTubeControls";
+            this.btnYouTubeControls.Size = new System.Drawing.Size(158, 40);
+            this.btnYouTubeControls.TabIndex = 54;
+            this.btnYouTubeControls.Text = "Контроли";
+            this.btnYouTubeControls.UseVisualStyleBackColor = true;
             // 
-            // button8
+            // btnYouTubeSearch
             // 
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.Location = new System.Drawing.Point(18, 270);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(143, 40);
-            this.button8.TabIndex = 53;
-            this.button8.Text = "Търсане";
-            this.button8.UseVisualStyleBackColor = true;
+            this.btnYouTubeSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnYouTubeSearch.Location = new System.Drawing.Point(18, 270);
+            this.btnYouTubeSearch.Name = "btnYouTubeSearch";
+            this.btnYouTubeSearch.Size = new System.Drawing.Size(143, 40);
+            this.btnYouTubeSearch.TabIndex = 53;
+            this.btnYouTubeSearch.Text = "Търсане";
+            this.btnYouTubeSearch.UseVisualStyleBackColor = true;
             // 
             // label4
             // 
@@ -245,25 +245,25 @@ namespace PersonalPurpose
             this.label4.TabIndex = 52;
             this.label4.Text = "YouTube";
             // 
-            // button7
+            // btnChromeBookmark
             // 
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.Location = new System.Drawing.Point(234, 161);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(141, 40);
-            this.button7.TabIndex = 51;
-            this.button7.Text = "Отметка";
-            this.button7.UseVisualStyleBackColor = true;
+            this.btnChromeBookmark.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnChromeBookmark.Location = new System.Drawing.Point(234, 161);
+            this.btnChromeBookmark.Name = "btnChromeBookmark";
+            this.btnChromeBookmark.Size = new System.Drawing.Size(141, 40);
+            this.btnChromeBookmark.TabIndex = 51;
+            this.btnChromeBookmark.Text = "Отметка";
+            this.btnChromeBookmark.UseVisualStyleBackColor = true;
             // 
-            // button6
+            // btnGoogleSearch
             // 
-            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.Location = new System.Drawing.Point(18, 161);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(149, 40);
-            this.button6.TabIndex = 50;
-            this.button6.Text = "Търсане";
-            this.button6.UseVisualStyleBackColor = true;
+            this.btnGoogleSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGoogleSearch.Location = new System.Drawing.Point(18, 161);
+            this.btnGoogleSearch.Name = "btnGoogleSearch";
+            this.btnGoogleSearch.Size = new System.Drawing.Size(149, 40);
+            this.btnGoogleSearch.TabIndex = 50;
+            this.btnGoogleSearch.Text = "Търсане";
+            this.btnGoogleSearch.UseVisualStyleBackColor = true;
             // 
             // label3
             // 
@@ -275,26 +275,27 @@ namespace PersonalPurpose
             this.label3.TabIndex = 49;
             this.label3.Text = "Google Chrome";
             // 
-            // button2
+            // btnMouse
             // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(234, 43);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(123, 40);
-            this.button2.TabIndex = 48;
-            this.button2.Text = "Мишка";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnMouse.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMouse.Location = new System.Drawing.Point(234, 43);
+            this.btnMouse.Name = "btnMouse";
+            this.btnMouse.Size = new System.Drawing.Size(123, 40);
+            this.btnMouse.TabIndex = 48;
+            this.btnMouse.Text = "Мишка";
+            this.btnMouse.UseVisualStyleBackColor = true;
+            this.btnMouse.Click += new System.EventHandler(this.button2_Click);
             // 
-            // button1
+            // btnKeyboard
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(18, 43);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(178, 40);
-            this.button1.TabIndex = 47;
-            this.button1.Text = "Клавиатура";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnKeyboard.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnKeyboard.Location = new System.Drawing.Point(18, 43);
+            this.btnKeyboard.Name = "btnKeyboard";
+            this.btnKeyboard.Size = new System.Drawing.Size(178, 40);
+            this.btnKeyboard.TabIndex = 47;
+            this.btnKeyboard.Text = "Клавиатура";
+            this.btnKeyboard.UseVisualStyleBackColor = true;
+            this.btnKeyboard.Click += new System.EventHandler(this.btnKeyboard_Click);
             // 
             // label1
             // 
@@ -317,25 +318,27 @@ namespace PersonalPurpose
             this.btnAbout.UseVisualStyleBackColor = true;
             this.btnAbout.Click += new System.EventHandler(this.btnAbout_Click);
             // 
-            // button5
+            // btnWindowsFiles
             // 
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(746, 161);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(169, 40);
-            this.button5.TabIndex = 71;
-            this.button5.Text = "Файлове";
-            this.button5.UseVisualStyleBackColor = true;
+            this.btnWindowsFiles.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnWindowsFiles.Location = new System.Drawing.Point(746, 161);
+            this.btnWindowsFiles.Name = "btnWindowsFiles";
+            this.btnWindowsFiles.Size = new System.Drawing.Size(169, 40);
+            this.btnWindowsFiles.TabIndex = 71;
+            this.btnWindowsFiles.Text = "Файлове";
+            this.btnWindowsFiles.UseVisualStyleBackColor = true;
+            this.btnWindowsFiles.Click += new System.EventHandler(this.btnWindowsFiles_Click);
             // 
-            // button14
+            // btnWindowsUpdate
             // 
-            this.button14.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button14.Location = new System.Drawing.Point(512, 161);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(210, 40);
-            this.button14.TabIndex = 70;
-            this.button14.Text = "Актуализация";
-            this.button14.UseVisualStyleBackColor = true;
+            this.btnWindowsUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnWindowsUpdate.Location = new System.Drawing.Point(512, 161);
+            this.btnWindowsUpdate.Name = "btnWindowsUpdate";
+            this.btnWindowsUpdate.Size = new System.Drawing.Size(210, 40);
+            this.btnWindowsUpdate.TabIndex = 70;
+            this.btnWindowsUpdate.Text = "Актуализация";
+            this.btnWindowsUpdate.UseVisualStyleBackColor = true;
+            this.btnWindowsUpdate.Click += new System.EventHandler(this.btnWindowsUpdate_Click);
             // 
             // label6
             // 
@@ -347,25 +350,25 @@ namespace PersonalPurpose
             this.label6.TabIndex = 69;
             this.label6.Text = "Windows";
             // 
-            // button15
+            // btnWordPrint
             // 
-            this.button15.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button15.Location = new System.Drawing.Point(746, 270);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(179, 40);
-            this.button15.TabIndex = 83;
-            this.button15.Text = "Принтиране";
-            this.button15.UseVisualStyleBackColor = true;
+            this.btnWordPrint.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnWordPrint.Location = new System.Drawing.Point(746, 270);
+            this.btnWordPrint.Name = "btnWordPrint";
+            this.btnWordPrint.Size = new System.Drawing.Size(179, 40);
+            this.btnWordPrint.TabIndex = 83;
+            this.btnWordPrint.Text = "Принтиране";
+            this.btnWordPrint.UseVisualStyleBackColor = true;
             // 
-            // button16
+            // btnWordBasics
             // 
-            this.button16.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button16.Location = new System.Drawing.Point(512, 270);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(149, 40);
-            this.button16.TabIndex = 82;
-            this.button16.Text = "Основи";
-            this.button16.UseVisualStyleBackColor = true;
+            this.btnWordBasics.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnWordBasics.Location = new System.Drawing.Point(512, 270);
+            this.btnWordBasics.Name = "btnWordBasics";
+            this.btnWordBasics.Size = new System.Drawing.Size(149, 40);
+            this.btnWordBasics.TabIndex = 82;
+            this.btnWordBasics.Text = "Основи";
+            this.btnWordBasics.UseVisualStyleBackColor = true;
             // 
             // label9
             // 
@@ -483,8 +486,8 @@ namespace PersonalPurpose
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1252, 540);
             this.Controls.Add(this.pictureBox10);
-            this.Controls.Add(this.button15);
-            this.Controls.Add(this.button16);
+            this.Controls.Add(this.btnWordPrint);
+            this.Controls.Add(this.btnWordBasics);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.pictureBox9);
             this.Controls.Add(this.pictureBox8);
@@ -495,8 +498,8 @@ namespace PersonalPurpose
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button14);
+            this.Controls.Add(this.btnWindowsFiles);
+            this.Controls.Add(this.btnWindowsUpdate);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.btnAbout);
             this.Controls.Add(this.btnMicrophone);
@@ -506,20 +509,20 @@ namespace PersonalPurpose
             this.Controls.Add(this.btnAnyDeskAccept);
             this.Controls.Add(this.btnAnyDeskCode);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.button13);
-            this.Controls.Add(this.button12);
+            this.Controls.Add(this.btnFBMsg);
+            this.Controls.Add(this.btnFBFind);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.button11);
-            this.Controls.Add(this.button10);
+            this.Controls.Add(this.btnSkypeMsg);
+            this.Controls.Add(this.btnSkypeCall);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.button9);
-            this.Controls.Add(this.button8);
+            this.Controls.Add(this.btnYouTubeControls);
+            this.Controls.Add(this.btnYouTubeSearch);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
+            this.Controls.Add(this.btnChromeBookmark);
+            this.Controls.Add(this.btnGoogleSearch);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnMouse);
+            this.Controls.Add(this.btnKeyboard);
             this.Controls.Add(this.label1);
             this.Name = "AideBG";
             this.Text = "Помощник";
@@ -547,24 +550,24 @@ namespace PersonalPurpose
         private System.Windows.Forms.Button btnAnyDeskAccept;
         private System.Windows.Forms.Button btnAnyDeskCode;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button12;
+        private System.Windows.Forms.Button btnFBMsg;
+        private System.Windows.Forms.Button btnFBFind;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button btnSkypeMsg;
+        private System.Windows.Forms.Button btnSkypeCall;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button btnYouTubeControls;
+        private System.Windows.Forms.Button btnYouTubeSearch;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button btnChromeBookmark;
+        private System.Windows.Forms.Button btnGoogleSearch;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnMouse;
+        private System.Windows.Forms.Button btnKeyboard;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnAbout;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button14;
+        private System.Windows.Forms.Button btnWindowsFiles;
+        private System.Windows.Forms.Button btnWindowsUpdate;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
@@ -576,8 +579,8 @@ namespace PersonalPurpose
         private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.PictureBox pictureBox9;
         private System.Windows.Forms.PictureBox pictureBox10;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.Button btnWordPrint;
+        private System.Windows.Forms.Button btnWordBasics;
         private System.Windows.Forms.Label label9;
     }
 }
