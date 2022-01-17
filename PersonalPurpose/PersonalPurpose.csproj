@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Resources\BGLaptop.ico</ApplicationIcon>
+    <ApplicationIcon>bulgaria_yt7_icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -148,6 +148,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\BGLaptop.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bulgaria_yt7_icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
