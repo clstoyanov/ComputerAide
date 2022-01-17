@@ -29,6 +29,7 @@ namespace PersonalPurpose
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AideBG));
             this.btnMicrophone = new System.Windows.Forms.Button();
             this.btnSound = new System.Windows.Forms.Button();
             this.btnInternet = new System.Windows.Forms.Button();
@@ -524,6 +525,7 @@ namespace PersonalPurpose
             this.Controls.Add(this.btnMouse);
             this.Controls.Add(this.btnKeyboard);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "AideBG";
             this.Text = "Помощник";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();

@@ -29,6 +29,7 @@ namespace PersonalPurpose
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AboutMe));
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -38,7 +39,7 @@ namespace PersonalPurpose
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(167, 221);
+            this.button1.Location = new System.Drawing.Point(182, 240);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(140, 41);
             this.button1.TabIndex = 3;
@@ -54,10 +55,11 @@ namespace PersonalPurpose
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(461, 171);
+            this.textBox1.Size = new System.Drawing.Size(488, 203);
             this.textBox1.TabIndex = 4;
             this.textBox1.Text = "Християн Стоянов е 23-годишен студент, който създаде това приложение за възрастни" +
-    " хора, за да могат да се научат сами как да използват компютри.";
+    " хора, за да могат да се научат сами как да използват компютри. За контакт: cs.s" +
+    "toyanov@gmail.com";
             // 
             // pictureBox1
             // 
@@ -73,10 +75,11 @@ namespace PersonalPurpose
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(801, 306);
+            this.ClientSize = new System.Drawing.Size(795, 306);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "AboutMe";
             this.Text = "За създателя";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
